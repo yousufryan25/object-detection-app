@@ -1,0 +1,6 @@
+flask==2.3.3
+opencv-python==4.8.1.78
+ultralytics==8.0.186
+firebase-admin==6.2.0
+requests==2.31.0
+python-dotenv==1.0.0
